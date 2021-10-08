@@ -2,4 +2,4 @@
 
 Cheat sheets:
 
-    - [Git/Github cheat sheet](git_cheat_sheet.md)
+- [Git/Github cheat sheet](git_cheat_sheet.md)
