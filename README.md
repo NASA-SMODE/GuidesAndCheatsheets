@@ -1,2 +1,5 @@
-# GuidesAndCheatsheets
-Guides and cheatsheet for the S-MODE repositories
+# Guidelines and cheat sheets
+
+Cheat sheets:
+
+    - [Git/Github cheat sheet](git_cheat_sheet.md)
