@@ -1,5 +1,10 @@
 # Guidelines and cheat sheets
 
+## General guidelines
+
+- [Code of Conduct](CODE_OF_CONDUCT.md)
+- [How to contribute](CONTRIBUTING.md)
+
 ## Guides
 
 ### Git/github
